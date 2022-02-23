@@ -2,8 +2,6 @@ Project 1 WebApp for a Custom ORM Framework
 By Art Weinstein and Alejandro Gomez
 A web application integrated with a custom ORM designed to let users register accounts.
 
-
-
 Technologies Used
 Java
 SQL
